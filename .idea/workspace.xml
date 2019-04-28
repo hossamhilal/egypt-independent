@@ -25,7 +25,7 @@
           <entry key="html" value="2" />
           <entry key="js" value="3" />
           <entry key="php" value="36" />
-          <entry key="scss" value="6" />
+          <entry key="scss" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -34,23 +34,23 @@
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="3" />
           <entry key="PHP" value="36" />
-          <entry key="SCSS" value="6" />
+          <entry key="SCSS" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="130" />
+          <entry key="css" value="147" />
           <entry key="js" value="15" />
           <entry key="php" value="1375" />
-          <entry key="scss" value="108" />
+          <entry key="scss" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="130" />
+          <entry key="CSS" value="147" />
           <entry key="JavaScript" value="15" />
           <entry key="PHP" value="1375" />
-          <entry key="SCSS" value="108" />
+          <entry key="SCSS" value="125" />
         </counts>
       </usages-collector>
     </session>
@@ -66,16 +66,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="700" column="19" lean-forward="true" selection-start-line="700" selection-start-column="19" selection-end-line="700" selection-end-column="19" />
+            <state relative-caret-position="45">
+              <caret line="610" column="22" selection-start-line="610" selection-start-column="22" selection-end-line="610" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="616" column="16" selection-start-line="616" selection-start-column="16" selection-end-line="620" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/templates-parts/main-posts.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
@@ -137,6 +146,7 @@
       <find>.article-post .img-box img</find>
       <find>.featured</find>
       <find>.featured .individual-post</find>
+      <find>.trend-list</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -156,12 +166,12 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/js/edit.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/templates-parts/featured-trending.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/css/style.scss" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/css/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/templates-parts/trending-posts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/templates-parts/world-middlEeast-posts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/templates-parts/main-posts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/css/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/css/style.css" />
       </list>
     </option>
   </component>
@@ -171,7 +181,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="11" />
     <option name="y" value="21" />
     <option name="width" value="1346" />
@@ -206,6 +216,14 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egypt-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="egypt-news" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="egypt-news" type="b2602c69:ProjectViewProjectNode" />
@@ -252,15 +270,15 @@
       <updated>1556354739188</updated>
       <workItem from="1556354740947" duration="18237000" />
       <workItem from="1556390904549" duration="11515000" />
-      <workItem from="1556443764005" duration="6487000" />
+      <workItem from="1556443764005" duration="6850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36239000" />
+    <option name="totallyTimeSpent" value="36602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
@@ -388,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="658" column="13" lean-forward="true" selection-start-line="658" selection-start-column="13" selection-end-line="658" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/templates-parts/section-posts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -416,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="700" column="19" lean-forward="true" selection-start-line="700" selection-start-column="19" selection-end-line="700" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/templates-parts/world-middlEeast-posts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -441,6 +445,20 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="616" column="16" selection-start-line="616" selection-start-column="16" selection-end-line="620" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="610" column="22" selection-start-line="610" selection-start-column="22" selection-end-line="610" selection-end-column="22" />
         </state>
       </provider>
     </entry>

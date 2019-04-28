@@ -614,6 +614,11 @@ a {
                 color: $white;
                 font-size: 23px;
                 font-weight: 600;
+                transition: all 1s ease-in-out;
+                &:hover {
+                    opacity: .8;
+                    transform: scale(.9);
+                }
             }
             label {
                 margin-bottom: 0;
@@ -842,11 +847,7 @@ a {
     &:hover
     {
         color: $white;
-        transform: translateY(-5px)scale(1,1.2)    ;
-        -webkit-transform: translateY(-5px)scale(1,1.2)    ;
-        -moz-transform: translateY(-5px)scale(1,1.2)    ;
-        -ms-transform: translateY(-5px)scale(1,1.2)    ;
-        -o-transform: translateY(-5px)scale(1,1.2)    ;
+        opacity: .7;
     }
 }
 

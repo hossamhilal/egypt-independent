@@ -608,7 +608,13 @@ a:hover {
   color: #fff;
   font-size: 23px;
   font-weight: 600;
+    transition: all .5s ease-in-out;
 }
+
+.trend-list li a span:hover {
+     opacity: .8;
+     transform: scale(.9);
+ }
 
 .trend-list li a label {
   margin-bottom: 0;
@@ -820,11 +826,7 @@ a:hover {
 
 .post-tag:hover {
   color: #fff;
-  transform: translateY(-5px) scale(1, 1.2);
-  -webkit-transform: translateY(-5px) scale(1, 1.2);
-  -moz-transform: translateY(-5px) scale(1, 1.2);
-  -ms-transform: translateY(-5px) scale(1, 1.2);
-  -o-transform: translateY(-5px) scale(1, 1.2);
+    opacity: .7;
 }
 
 .egypt-tag {
